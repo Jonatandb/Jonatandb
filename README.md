@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jonatandb 🤓
 - 👀 I’m interested in improve my programming skills
 - 🌱 I’m currently learning NodeJS and Python
-- 💞️ I’m looking to collaborate on each repo where I see a typo 😝
 - 📫 How to reach me -> just visit my personal website: https://jonatandb.github.io/
 
 <!---
