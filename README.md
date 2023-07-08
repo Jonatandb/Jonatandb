@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonatandb 🤓
 - 👀 I'm interested in improving my programming skills.
-- 🌱 I’m currently learning TypeScript, AWS, NodeJS and Python
+- 🌱 I’m currently learning Unity and Python
 - 📫 How to reach me -> just visit my personal website: https://jonatandb.github.io/
 
 <!---
