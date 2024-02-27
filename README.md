@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonatandb 🤓
 - 👀 I'm interested in improving my programming skills.
-- 🌱 I’m currently learning Unity and Python
+- 🌱 I’m currently learning Unity, TypeScript, Python, Django and FastAPI
 - 📫 How to reach me -> just visit my personal website: https://jonatandb.github.io/
 
 <!---
