@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jonatandb 🤓
+- 👋 Hi, I’m Jonatandb 👨🏻‍🚀
 - 👀 I'm interested in improving my programming skills.
-- 🌱 I’m currently learning Unity, TypeScript, Python, Django and FastAPI
-- 📫 How to reach me -> just visit my personal website: https://jonatandb.github.io/
+- 🌱 I’m currently learning Python, Django and Angular!.
+- 📫 Contact me -> https://jonatandb.dev.ar/
 
 <!---
 Jonatandb/Jonatandb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
