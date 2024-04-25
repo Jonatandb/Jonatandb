@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonatandb 👨🏻‍🚀
 - 👀 I'm interested in improving my programming skills.
-- 🌱 I’m currently learning Python, Django and Angular!.
+- 🌱 I’m currently learning Unity, TypeScript, Python, Django and Angular!.
 - 📫 Contact me -> https://jonatandb.dev.ar/
 
 <!---
