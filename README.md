@@ -21,19 +21,16 @@
 
 ---
 
+
 <h2>
   ℹ️ &nbsp;Github Info
 </h2>
 
-<summary>
-  <b>
-    ⚡ Github Stats
-  </b>
-</summary>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatandb&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Jonatandb" align = "center" />
-</p>
+<h2 align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatandb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</h2>
 
 <summary>
   <b>
@@ -47,6 +44,18 @@
 
 <summary>
   <b>
+    ⚡ Github Stats
+  </b>
+</summary>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatandb&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Jonatandb" align = "center" />
+</p>
+
+
+
+<summary>
+  <b>
     🏆 Github Achievements
   </b>
 </summary>
@@ -55,7 +64,7 @@
   <a href="https://github.com/jonatandb">
     <img src="https://github-profile-trophy.vercel.app/?username=jonatandb&margin-w=5&theme=radical" alt="Jonatandb" />
   </a>
-</p>
+
 
 
 
