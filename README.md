@@ -11,9 +11,11 @@
 
 --- 
 <h2 align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=social&logo=linkedin&logoColor=007BB6&color=white)](https://www.linkedin.com/in/jonatandb/) 
-  
+
+  [![Linkedin: Jonatandb](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&label=Jonatandb&link=https://www.linkedin.com/in/jonatandb/)](https://www.linkedin.com/in/jonatandb/)
+  [![GitHub Follow](https://img.shields.io/github/followers/jonatandb?label=Follow%20jonatandb&style=social)](https://github.com/jonatandb)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/jonatandb?style=social)](https://twitter.com/jonatandb)
+<br>  
   [![](https://visitcount.itsvg.in/api?id=Jonatandb&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 </h2>
