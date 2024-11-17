@@ -5,7 +5,7 @@
 
 <h3>👀 I'm interested in improving my programming skills.</h3>
 
-<h3>🌱 I’m currently learning Python, Django, Unity, TypeScript and Angular!.</h3>
+<h3>🌱 I’m currently learning Net Core, TypeScript, NextJS, NestJS and ARMv7 Assembler!.</h3>
 
 <h3>📫 Contact me -> https://jonatandb.dev.ar/</h3>
 
